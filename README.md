@@ -12,5 +12,5 @@
 
 5. 목적지 도달 확인 : 현재 노드가 목적지인지 확인하고, 목적지에 도달했다면 최적 경로를 찾은 것으로 종료한다
 
-![Uploading image.png…]()
 
+![image](https://github.com/downy25/pathfinding/assets/112371402/35b867b2-1899-4b10-82b7-fcc7bd8f783f)
