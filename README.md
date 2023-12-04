@@ -1,4 +1,4 @@
-![image](https://github.com/downy25/pathfinding/assets/112371402/49f1cabe-80cf-483e-be30-24517df24509)# pathfinding
+# pathfinding
 - A* 알고리즘은 출발지에서 목적지까지의 최단 경로를 찾기 위해 사용되는 경로 탐색 알고리즘이다. 이 알고리즘은 평가 함수
 를 이용하여 경로의 비용과 남은 거리를 동시에 고려하여 탐색하는 효율적인 방법을 제공한다.
 
